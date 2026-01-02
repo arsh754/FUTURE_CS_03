@@ -1,0 +1,17 @@
+Nmap Scan Report – Localhost
+
+Command used:
+nmap 127.0.0.1
+
+Date:
+02 Jan 2026
+
+Scan Results:
+-------------------------
+PORT     STATE SERVICE
+5000/tcp open  upnp
+7000/tcp open  afs3-fileserver
+
+Summary:
+Most ports were closed. Only expected local services were running.
+No suspicious or unexpected open ports detected.
