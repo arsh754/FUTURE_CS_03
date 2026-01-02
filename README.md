@@ -22,6 +22,13 @@ To perform network scanning using Nmap to identify open ports, running services,
 - Service enumeration
 - Vulnerability identification
  
-##Verification
-Nmap installation verified using `nmap --version`.
+## Tool Verification
+
+Nmap was successfully installed and verified using the following command:
+
+`nmap --version`
+
+Screenshot proof is available below:
+![Nmap Version Verification](screenshots/nmap_ver.png)
+
 
