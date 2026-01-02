@@ -32,3 +32,15 @@ Screenshot proof is available below:
 ![Nmap Version Verification](screenshots/nmap_ver.png)
 
 
+## Localhost Scan
+
+A basic Nmap scan was performed on localhost to identify open ports.
+
+Command used:
+`nmap 127.0.0.1`
+
+### Scan Output
+![Localhost Scan](screenshots/localhost_scan.png)
+
+
+
