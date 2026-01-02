@@ -21,3 +21,7 @@ To perform network scanning using Nmap to identify open ports, running services,
 - Port scanning
 - Service enumeration
 - Vulnerability identification
+ 
+##Verification
+Nmap installation verified using `nmap --version`.
+
